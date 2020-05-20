@@ -1,3 +1,5 @@
+-- to run F5
+
 -- math expressions
 SELECT 42.3;
 SELECT 42.3 + 5;
